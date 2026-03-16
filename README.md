@@ -1,12 +1,11 @@
 # Cloud_platform_learning
-Documentation of cloud tasks and projects implemented using Amazon Web Services and Microsoft Azure, covering cloud infrastructure, networking, storage, and security service
-
-
 ![Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-blue)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
 ![Cloud](https://img.shields.io/badge/Focus-Cloud%20Computing-informational)
 ![Learning](https://img.shields.io/badge/Status-Learning-success)
 
+Documentation of cloud tasks and projects implemented using Amazon Web Services and Microsoft Azure, covering cloud infrastructure, networking, storage, and security service
+ 
 This repository contains my learning notes and hands on practice related to cloud platforms.
 The goal of this repository is to document my learning journey and build a strong foundation in cloud technologies.
 
